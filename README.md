@@ -1,4 +1,6 @@
-# Big Data Analytics for MBA,Business School, Nanjing University
+# Big Data Analytics for MBA,
+
+## Business School, Nanjing University
 
 ## Spring,2019
 
