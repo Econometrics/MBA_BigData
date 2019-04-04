@@ -38,13 +38,12 @@ wonderful online class on [DataCamp](https://www.datacamp.com), please contact y
 
 ### Computer Lab Exercise(上机练习）
 
-- Pre  Installation: 
+- Pre  Installation:(安装R和RStudio)
 
   - [R](https://github.com/MetricsNJU/Metrics_2018/blob/master/Review_and_Lab/R/R的简介与安装.pptx)
   
-- 9/25 Introduction: 
+- 9/25 Introduction to R
 
-  - [Stata](https://github.com/MetricsNJU/Metrics_2018/blob/master/Review_and_Lab/Stata/stata.pdf)
   - [R](https://github.com/MetricsNJU/Metrics_2018/blob/master/Review_and_Lab/R/how_to_use_R.pdf)
   
 
