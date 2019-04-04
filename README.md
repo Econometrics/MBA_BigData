@@ -31,11 +31,8 @@ wonderful online class on [DataCamp](https://www.datacamp.com), please contact y
 - 3/30 Introduction: [Lecture 0](https://github.com/Econometrics/MBA_BigData/blob/master/Slides/MBA_2019_Lec0.pdf)
 - 3/30 Causal Inference in Social Science: [Lecture 1](https://github.com/Econometrics/MBA_BigData/blob/master/Slides/MBA_2019_Lec1_no.pdf)
 
-    - Scentific News: Monkey and Money（猴子与金钱）
-
-      * [News](https://github.com/MetricsNJU/Metrics_2018/blob/master/Slides/Longlive_keju.pdf)
-      * [slides](https://github.com/MetricsNJU/Metrics_2018/blob/master/Slides/LonglivekejuV5.pdf)
-
+   - Scentific News: Monkey and Money（猴子与金钱）
+    
 ### Computer Lab Exercise(上机练习）
 
 - Pre  Installation:(安装R和RStudio)
