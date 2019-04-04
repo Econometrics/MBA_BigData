@@ -17,7 +17,7 @@ wonderful online class on [DataCamp](https://www.datacamp.com), please contact y
 
 ### Syllabus(课程计划） 
 
-- [Syllabus](https://github.com/Econometrics/MBA_BigData/blob/master/Syllabus/大数据时代的管理决策.pdf) 
+- [Syllabus](https://github.com/Econometrics/MBA_BigData/blob/master/Syllabus/大数据时代的管理决策(2019).pdf) 
 
 ### Slides(课堂讲义）
 
