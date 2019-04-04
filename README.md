@@ -2,15 +2,6 @@
 
 ## Spring,2019
 
-
-### **Notice**: The deadline for proposal and HW4
-
-# Introduction to Econometrics at Business School, Nanjing University
-
-
-## Fall,2018
-
-
 ### **Notice**: The deadline for proposal and HW4
 
 |   Topic               | Date                 |  Time               | 
