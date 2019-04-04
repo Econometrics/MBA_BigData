@@ -4,11 +4,13 @@
 
 ## Spring,2019
 
-### **Notice**: The deadline for proposal and HW4
+### **Schedual**: Research Proposal and Final Exam 
 
-|   Topic               | Date                 |  Time               | 
+|   Items               | Date                 |  Due Time               | 
 | --------------------- | -------------------- |--------------------- | 
-|   Proposal and HW4 | 1/30/2019               |    24:00pm         |
+|   Oral Report of Research Topic  | 4/13/2019 |    24:00pm         |
+|   Presentation for Proposal  | 4/21/2019 |    1:30pm-4:30pm         |
+|   Final Open-Book Exam.      | 4/21/2019 |    4:40pm-5:40pm        |
 
 
 ### Online Courses for R  
