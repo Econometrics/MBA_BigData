@@ -17,7 +17,7 @@ wonderful online class on [DataCamp](https://www.datacamp.com), please contact y
 
 ### Syllabus(课程计划） 
 
-- [Syllabus](https://github.com/MetricsNJU/Metrics_2018/blob/master/Syllabus/Syllabus_2018Fall_1015.pdf) (**updated on Oct. 28: Changed the schedual of computer lab**)
+- [Syllabus](https://github.com/Econometrics/MBA_BigData/blob/master/Syllabus/大数据时代的管理决策.pdf) 
 
 ### Slides(课堂讲义）
 
