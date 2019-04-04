@@ -10,7 +10,7 @@
 | --------------------- | -------------------- |--------------------- | 
 |   Oral Report of Research Topic  | 4/13/2019 |    24:00pm         |
 |   Presentation for Proposal  | 4/21/2019 |    1:30pm-4:30pm         |
-|   Final Open-Book Exam.      | 4/21/2019 |    4:40pm-5:40pm        |
+|   Final Open-Book Exam      | 4/21/2019 |    4:40pm-5:40pm        |
 
 
 ### Online Courses for R  
@@ -33,7 +33,7 @@ wonderful online class on [DataCamp](https://www.datacamp.com), please contact y
 
     - Scentific News: Monkey and Money（猴子与金钱）
 
-      * [working paper](https://github.com/MetricsNJU/Metrics_2018/blob/master/Slides/Longlive_keju.pdf)
+      * [News](https://github.com/MetricsNJU/Metrics_2018/blob/master/Slides/Longlive_keju.pdf)
       * [slides](https://github.com/MetricsNJU/Metrics_2018/blob/master/Slides/LonglivekejuV5.pdf)
 
 ### Computer Lab Exercise(上机练习）
