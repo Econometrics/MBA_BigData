@@ -16,7 +16,7 @@ wonderful online class on [DataCamp](https://www.datacamp.com), please contact y
 
 ### Guide to Research Projects(Proposal)（期末研究计划指南）
 
-- [Guide](https://github.com/MetricsNJU/Metrics_2018/blob/master/HWs/Guide_2018.pdf)
+- [Guide](https://github.com/Econometrics/MBA_BigData/blob/master/Syllabus/MBA_Presentation_Guide_2019.pdf)
 
 ### Syllabus(课程计划） 
 
