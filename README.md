@@ -13,7 +13,7 @@
 |   Final Open-Book Exam      | 4/21/2019 |    4:40pm-5:40pm        |
 
 
-### Online Courses for R  
+### Online Courses for R(免费的在线R课程）  
 
 - Great news! Since Oct.8, 2018, this class has been supported by [DataCamp](https://www.datacamp.com), One of the most intuitive learning platform for data science in the world. Everyone offically taking the class will have full access to the entire DataCamp course curriculum for entire 6 months.You could learn the knowledge and practice skills of R,Rstudio and Python and so on for **FREE**. Thank the company a lot for the great contribution! For the question about how to join the 
 wonderful online class on [DataCamp](https://www.datacamp.com), please contact your TAs. 
