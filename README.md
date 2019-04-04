@@ -18,7 +18,6 @@ wonderful online class on [DataCamp](https://www.datacamp.com), please contact y
 
 - [Guide](https://github.com/MetricsNJU/Metrics_2018/blob/master/HWs/Guide_2018.pdf)
 
-
 ### Syllabus(课程计划） 
 
 - [Syllabus](https://github.com/Econometrics/MBA_BigData/blob/master/Syllabus/大数据时代的管理决策(2019).pdf) 
@@ -27,7 +26,6 @@ wonderful online class on [DataCamp](https://www.datacamp.com), please contact y
 
 - 3/30 Introduction: [Lecture 0](https://github.com/Econometrics/MBA_BigData/blob/master/Slides/MBA_2019_Lec0.pdf)
 - 3/30 Causal Inference in Social Science: [Lecture 1](https://github.com/Econometrics/MBA_BigData/blob/master/Slides/MBA_2019_Lec1_no.pdf)
-(https://github.com/MetricsNJU/Metrics_2018/blob/master/Slides/Metrics_2018_Lec1.pdf)
 
     - Scentific News: Monkey and Money（猴子与金钱）
 
@@ -38,7 +36,6 @@ wonderful online class on [DataCamp](https://www.datacamp.com), please contact y
 
 - Pre  Installation: 
 
-  - [Stata](https://github.com/MetricsNJU/Metrics_2018/blob/master/Review_and_Lab/Stata/stata安装教程.pdf)
   - [R](https://github.com/MetricsNJU/Metrics_2018/blob/master/Review_and_Lab/R/R的简介与安装.pptx)
   
 - 9/25 Introduction: 
@@ -46,17 +43,6 @@ wonderful online class on [DataCamp](https://www.datacamp.com), please contact y
   - [Stata](https://github.com/MetricsNJU/Metrics_2018/blob/master/Review_and_Lab/Stata/stata.pdf)
   - [R](https://github.com/MetricsNJU/Metrics_2018/blob/master/Review_and_Lab/R/how_to_use_R.pdf)
   
-### Homeworks(课后作业）
-
-- [HW1](https://github.com/MetricsNJU/Metrics_2018/blob/master/HWs/HW1.pdf)  (**9/29 updated**) **due to 10/11**
-  - [DataSet: Rand.dta](https://github.com/MetricsNJU/Metrics_2018/blob/master/HWs/rand.dta)
-
-### Math Review (数学复习）
-
-- 9/11 [Recite 1](https://github.com/MetricsNJU/Metrics_2018/blob/master/Review_and_Lab/Recite_1/recite_1_review_of_probability.pdf)
-- 9/18 [Recite 2](https://github.com/MetricsNJU/Metrics_2018/blob/master/Review_and_Lab/Recite_2/recite2_Bujing_new.pdf)
-
-
 
 
 
