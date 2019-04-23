@@ -9,8 +9,7 @@
 |   Items               | Date                 |  Due Time               | 
 | --------------------- | -------------------- |--------------------- | 
 |   Oral Report of Research Topic  | 4/13/2019 |    24:00pm         |
-|   Presentation for Proposal  | 4/21/2019 |    1:30pm-4:30pm         |
-|   Final Open-Book Exam      | 4/21/2019 |    4:40pm-5:40pm        |
+|   Presentation for Proposal  | 4/20/2019 |    3:30pm-5:30pm         |
 
 
 ### Online Courses for R(免费的在线R课程）  
@@ -29,10 +28,19 @@ wonderful online class on [DataCamp](https://www.datacamp.com), please contact y
 ### Slides(课堂讲义）
 
 - 3/30 Introduction: [Lecture 0](https://github.com/Econometrics/MBA_BigData/blob/master/Slides/MBA_2019_Lec0.pdf)
+
 - 3/30 Causal Inference in Social Science: [Lecture 1](https://github.com/Econometrics/MBA_BigData/blob/master/Slides/MBA_2019_Lec1_no.pdf)
 
-   - Scentific News: Monkey and Money（猴子与金钱）
-    
+- 4/13 Randomized Controlled Trail: [Lecture 2](https://github.com/Econometrics/MBA_BigData/blob/master/Slides/MBA_2019_Lec2.pdf)
+
+- 4/20 OLS Regression-Estimation: [Lecture 3](https://github.com/Econometrics/MBA_BigData/blob/master/Slides/MBA_2019_Lec3.pdf)
+
+- 4/20 OLS Regression-Hypothesis Test: [Lecture 4](https://github.com/Econometrics/MBA_BigData/blob/master/Slides/MBA_2019_Lec4.pdf)
+
+- 4/20 Nonlinear Regression Function: [Lecture 5](https://github.com/Econometrics/MBA_BigData/blob/master/Slides/MBA_2019_Lec5.pdf)
+
+- 4/20 Binary Dependent Variable: [Lecture 6](https://github.com/Econometrics/MBA_BigData/blob/master/Slides/MBA_2019_Lec6.pdf)
+
 ### Computer Lab Exercise(上机练习）
 
 - Pre  Installation:(安装R和RStudio)
